@@ -144,8 +144,7 @@ For this exercise the 3 level wallet addresses were generated for each of these 
   <img alt=bash-exe.png src=Images/Send_ETH0_to_ETHTP-Code.png>
 
 * Execute python script from git-bash
-    <img alt=bash-exe.png src=Images/Send_ETH0_to_ETHTP_success.png> 
-    
+
 * Balances of 2 wallet address from MyCrypto after transaction send
 
     MyCrypto balance after send for ETH[0] wallet address 0x6F33fa2F1C20c95BB2C7F53cc8F204963ebCBFbF
