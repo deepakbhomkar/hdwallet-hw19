@@ -1,4 +1,4 @@
-# HDWALLET - HW19
+# HDWALLET -HW19
 Design a Universal Wallet using a command line tool that integrates with python script to transact the most popular wallets.
 This tool will alow users to send transactions between different addresess based on the coins selected. For the pupose of simplicity the tool currently handles BTC and ETH blockchain, but can be enhanced to include all altcoins and integrated into a web portal. Since this is not integrated to a user interface, the code is written to execute either BTC or ETH and and then run the tool to complete the transaction.  
 
